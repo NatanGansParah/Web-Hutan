@@ -20,7 +20,7 @@
                         <span class="icon">
                             <ion-icon name="logo-apple"></ion-icon>
                         </span>
-                        <span class="title">Brand Name</span>
+                        <span class="title">Kehutanan</span>
                     </a>
                 </li>
 
@@ -70,11 +70,11 @@
                 </li>
 
                 <li>
-                    <a href="#">
+                    <a href="/login">
                         <span class="icon">
                             <ion-icon name="lock-closed-outline"></ion-icon>
                         </span>
-                        <span class="title">Password</span>
+                        <span class="title">Login</span>
                     </a>
                 </li>
 
